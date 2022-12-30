@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChuongTrinhHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChuongTrinhHoc_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChuongTrinhHoc_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangKyHocPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHocMo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHocMo_filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHocMo_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHocMo_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHoc_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachMonHoc_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DongHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_DTUT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_HocKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_HocKy_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_HocKy_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_KHOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_LoaiTC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DS_NGANH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapDTUT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapHSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapKHOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapLoaiTC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapNGANH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuThuHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhongDaoTao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Update="TaiKhoan_PDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan_SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> 5fb8b587d505a2986bad895f00c0c6a40bdbf772
+    <Compile Update="ThongTinDongHocPhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TTDKHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TTHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TTSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateHSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
